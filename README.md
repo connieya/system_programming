@@ -12,7 +12,7 @@
 
 ## 4장 컴퓨터 구조에 대한 두 번째 이야기
 - ### [컴퓨터 구조의 접근 방법](./chapter04/4-1/컴퓨터구조접근방법.md)
-- ### LOAD & STORE 명령어 디자인
+- ### [LOAD & STORE 명령어 디자인](./chapter04/4-2/load_store.md)
 - ### Direct 모드와 Indirect 모드
 
 ## 5장 프로세스의 생성과 소멸
