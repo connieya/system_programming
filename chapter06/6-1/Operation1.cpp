@@ -7,7 +7,7 @@ int _tmain(int argc, TCHAR*argv[])
     STARTUPINFO si = {0, };
     PROCESS_INFORMATION pi;
     si.cb = sizeof(si);
-    TCHAR command[] = _T("Operation2.exe");
+    TCHAR command[] = _T("C:\\c_cpp_study\\system_programming\\cmake-build-debug\\chapter06_6-1_Operation2.exe");
 
     CreateProcess(
             NULL , command , NULL , NULL ,
