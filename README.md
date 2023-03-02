@@ -46,15 +46,15 @@
   - 명령 프롬프트 프로젝트의 제안
   - 명령 프롬프트 프로젝트의 제안과 EXIT 명령어의 구현
 
-### 4장 컴퓨터 구조에 대한 두 번째 이야기
-- [컴퓨터 구조의 접근 방법](./chapter04/4-1/컴퓨터구조접근방법.md)
+### [4장 컴퓨터 구조에 대한 두 번째 이야기](./chapter04/4장.md)
+- 컴퓨터 구조의 접근 방법
   - 컴퓨터를 디자인하자
   - 레지스터를 디자인하자
   - 명령어 구조 및 명령어를 디자인하자
-- [LOAD & STORE 명령어 디자인](./chapter04/4-2/load_store.md)
+- LOAD & STORE 명령어 디자인
   - LOAD & STORE 명령의 필요성
   - LOAD & STORE 명령의 디자인
-- [Direct 모드와 Indirect 모드](./chapter04/4-3/direct_indirect.md)
+- Direct 모드와 Indirect 모드
   - Direct 모드의 문제점과 Indirect 모드의 제안
   - Indiret 모드의 이해
   - Indirect 모드 활용 예제
